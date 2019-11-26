@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00000000"
+    android:orientation="vertical"
+    tools:context=".Schedules">
+
+    <Button
+        android:id="@+id/BestSleep"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BestSleep"
+        android:textSize="50dp" />
+
+    <Button
+        android:id="@+id/TimetoRecord"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TimetoRecord"
+        android:textSize="50dp" />
+
+    <Button
+        android:id="@+id/Howitworks"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Howitworks"
+        android:textSize="50dp" />
+
+    <Button
+        android:id="@+id/Creadits"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Creadits"
+        android:textSize="50dp" />
+
+</LinearLayout>
